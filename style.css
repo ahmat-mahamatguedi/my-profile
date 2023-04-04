@@ -1,0 +1,62 @@
+<link rel="stylesheet" href="style.css">
+h1 {
+  color: #333;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 20px;
+}
+<link rel="stylesheet" href="style.css">
+h2 {
+  color: #333;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+<link rel="stylesheet" href="style.css">
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+<link rel="stylesheet" href="style.css">
+p {
+  color: #666;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+
+<link rel="stylesheet" href="style.css">
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+<link rel="stylesheet" href="style.css">
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+<link rel="stylesheet" href="style.css">
+i {
+  margin-right: 10px;
+}
+
+<link rel="stylesheet" href="style.css">
+li:nth-child(1) a {
+  color: #E1306C;
+}
+
+li:nth-child(2) a {
+  color: #0077B5;
+}
+
+li:nth-child(3) a {
+  color: #1DA1F2;
+}
